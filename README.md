@@ -7,6 +7,8 @@ El código en el jupyter notebook, muestra los URLs minados, así como aquellos 
 
 Consideramos en base al programa y su presentación que presentaría un buen punto de partida para aquellos interesados en desarrollar un analizador de sentimientos de twits, u bases de datos de terceras personas.
 
+Este proyecto resulta útil  ya que ayuda a obtener una buena selección entre tweets positivos y negativos y se podría usar con el fin de realizar estadísticas de la aceptación de un cierto tema en un público preestablecido. Un ejemplo de su utilidad es al realizar un estudio de mercado sobre la aceptación de un determinado producto o servicio lo cual podría ayudar a una empresa a crear estrategias para mejorar o mantener la imagen de su producto o servicio. 
+
 ##### Representación y fuente de datos. 
 Las twits utilizadas son extraidos de un query desde el api de [twitter](https://developer.twitter.com) y analizados por la herramienta [nltk](https://www.nltk.org/).
 
